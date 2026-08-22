@@ -1,0 +1,24 @@
+{
+    "config":{
+        "EBasis||MBasis":"Static/EBasis||MBasis.mjpeg",
+        "EAngry||MBasis":"onlyEyes_mjpeg/EAngry||MBasis.avi",
+        "...":"..."
+    },
+
+    "EBasis||MBasis":{
+        "description":"In this animation the Eyes and Mouth both are still, and the animation is only for the background. And the in the animation the Eye is a rectangular rounded shape and the Mouth is a rectangular stretched shape.",
+        "timeline":{
+            "0-5":"The Eyes and Mouth are still no action.",
+            "5-10":"The Eyes and Mouth are still no action."
+        }
+    },
+
+    "EAngry||MBasis":{
+        "description":"In this animation the Eyes are angry and the Mouth is still, and the animation is only for the background. (describe it more briefly)...).",
+        "timeline":{
+            "0-5":"The Eyes are angrily closing and the Mouth is still no action.",
+            "5-10":"The Eyes are angrily opeing again and the Mouth is still no action."
+        }
+    }
+
+}
